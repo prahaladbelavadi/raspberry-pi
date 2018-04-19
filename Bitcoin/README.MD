@@ -9,3 +9,5 @@ Don't leave your stuff lying around.
 I'm invested in learning the tech more than the cash/bitcoin I can make, for now.
 
 Your priorities might be different. Act accordingly.
+
+- [References](./references)
